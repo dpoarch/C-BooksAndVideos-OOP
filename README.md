@@ -13,7 +13,7 @@ purchased.
 Order Example:\
 ID: 3344656\
 Total Price: 48.50\
-Customer ID: 4567890\
+Customer ID: 4567890
 
 Item Lines:\
 Video "Transformers"\
