@@ -1,7 +1,7 @@
 ## C#-BooksAndVideos-OOP
 
 -Update/restore required packages from Nugetpackage manager\
--Run the following test on ProcessTest.cs to check the function results\
+-Run the following test on ProcessTest.cs to check the function results
 
 ## System Description
 BooksAndVideos is an e-commerce shop where customers can buy books and videos.
@@ -19,7 +19,7 @@ Item Lines:\
 Video "Transformers"\
 Book "Harry Potter and the Goblet of Fire"\
 Book Club Membership\
-Several Order Rules are applied when order is processed.\
+Several Order Rules are applied when order is processed.
 
 
 OR1: if order contains any memberships, they have to be activated in the customer account
@@ -30,4 +30,4 @@ added to the purchase order as a free item.\
 OR4: if order contains books, and the customer has book membership or bought one then 5
 points are added to the customer account for each book.\
 OR5: if order contains videos, and the customer has video club membership or bought one then
-5 points are added to the customer account for each video.\
+5 points are added to the customer account for each video.
